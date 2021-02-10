@@ -1,0 +1,2 @@
+# simpleplanya.github.io
+web
